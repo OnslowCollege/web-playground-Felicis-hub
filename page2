@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> My website</title>
+<link rel="stlyesheet" href="main.css">
+</head>
+<body>
+<h1>My website</h1>
+<h3> Felix haworth</h3>
+<p> This is my first website made in 10DIT</p>
+<a href="page2">wanna see somin cool</a>
+</body>
+</html>
